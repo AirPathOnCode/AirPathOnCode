@@ -4,6 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Oh+Hello+There!;+I'm+AirPath144!+:];" />
 </h1>
 
+<img src="https://github.com/AirPathOnCode/AirPathOnCode/blob/main/Banner.jpg" alt="city_banner">
+
 ### A willing to improve sofware and game developer, trying to learn a lot of stuff.
 - I’m currently learning **Rust and Blender**
 - Ask me about **Python, Server-Hosting, Rust...or anything [here](https://github.com/AirPathOnCode/AirPathOnCode/issues)**
