@@ -33,7 +33,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ableton,blender,docker,git,linux,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=ableton,blender,docker,git,linux,debian,kali,raspberrypi" />
   <img src="https://skillicons.dev/icons?i=html,py,rust,sqlite" />
 </p>
 
